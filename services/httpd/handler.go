@@ -1098,8 +1098,8 @@ func (h *Handler) recovery(inner http.Handler, name string) http.Handler {
 
 // Response represents a list of statement results.
 type Response struct {
-	Results []*influxql.Result
-	Err     error
+	Results []*influxql.Result `codec:"results,omitempty"`
+	Err     error              `codec:"error,omitempty"`
 }
 
 // MarshalJSON encodes a Response struct into JSON.

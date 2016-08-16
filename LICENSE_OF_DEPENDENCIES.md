@@ -17,6 +17,7 @@
 - github.com/peterh/liner [MIT LICENSE](https://github.com/peterh/liner/blob/master/COPYING)
 - github.com/rakyll/statik [APACHE LICENSE](https://github.com/rakyll/statik/blob/master/LICENSE)
 - github.com/retailnext/hllpp [BSD LICENSE](https://github.com/retailnext/hllpp/blob/master/LICENSE)
+- github.com/ugorji/go/codec [MIT LICENSE](https://github.com/ugorji/go/blob/master/LICENSE)
 - glyphicons [LICENSE](http://glyphicons.com/license/)
 - golang.org/x/crypto [BSD LICENSE](https://github.com/golang/crypto/blob/master/LICENSE)
 - jquery 2.1.4 [MIT LICENSE](https://github.com/jquery/jquery/blob/master/LICENSE.txt)
